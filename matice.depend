@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1730878849 source:c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\grmelaroman-iteracni\matice.c
+	"matice.h"
+	<stdio.h>
+	<stdlib.h>
+
+1730878850 c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\grmelaroman-iteracni\matice.h
+	<stdio.h>
+
+1730882682 source:c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\grmelaroman-iteracni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"gvid.h"
+	"matice.h"
+
+1730878849 c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\grmelaroman-iteracni\gvid.h
+
+1731408577 source:c:\users\grmel19102\desktop\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\matice.c
+	"matice.h"
+	<stdio.h>
+	<stdlib.h>
+
+1731408577 c:\users\grmel19102\desktop\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\matice.h
+	<stdio.h>
+
+1731413639 source:c:\users\grmel19102\desktop\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"gvid.h"
+	"matice.h"
+
+1731408577 c:\users\grmel19102\desktop\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\gvid.h
+
+1731414940 source:c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\matice.c
+	"matice.h"
+	<stdio.h>
+	<stdlib.h>
+
+1731414940 c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\matice.h
+	<stdio.h>
+
+1731525142 source:c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"gvid.h"
+	"matice.h"
+
+1731414940 c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\gvid.h
+
+1731525142 source:c:\users\rgrme\onedrive\desktop\projects\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"gvid.h"
+	"matice.h"
+
+1731414940 c:\users\rgrme\onedrive\desktop\projects\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\gvid.h
+
+1731414940 c:\users\rgrme\onedrive\desktop\projects\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\matice.h
+	<stdio.h>
+
+1731414940 source:c:\users\rgrme\onedrive\desktop\projects\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\grmelaroman-iteracni\matice.c
+	"matice.h"
+	<stdio.h>
+	<stdlib.h>
+
+1731528742 source:c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"gvid.h"
+	"matice.h"
+
+1731418540 c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\gvid.h
+
+1731418540 c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\matice.h
+	<stdio.h>
+
+1731418540 source:c:\users\rgrme\onedrive\desktop\grmelaroman-iteracni\matice.c
+	"matice.h"
+	<stdio.h>
+	<stdlib.h>
+
